@@ -1,0 +1,17 @@
+1. Open a text editor and create a new file.
+2. Copy and paste your Java code into the file.
+3. Save the file with a .java extension, for example, MyApplication.java.
+4. Open a command prompt or terminal.
+5. Navigate to the directory where you saved the Java file using the cd command. For example, if the file is saved on your desktop, use cd Desktop.
+6. Compile the Java file by running the following command: javac MyApplication.java
+   This command will generate a compiled .class file.
+7. Run the Java application using the following command: java MyApplication
+   Replace MyApplication with the actual name of your Java file (without the .java extension).
+8. The Java application will now run, and any output will be displayed in the command prompt or terminal.
+9. The application will prompt you to enter the MySQL username. Type in the username "root".
+10. The application will prompt you to enter the MySQL password. Type in the password "Julia2003!".
+11. The application will then execute and perform the necessary database operations.
+12. Once the application finishes running, it will close the connection to the database and terminate.
+
+
+
